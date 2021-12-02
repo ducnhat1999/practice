@@ -1,0 +1,163 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 1168px;
+  height: 100%;
+  margin: 0 auto;
+  padding-top: 20px;
+  background-color: #DEE0E2;
+}
+
+.styleguide-content {
+  padding-left: 80px;
+  margin-top: 55px;
+}
+
+/* text */
+
+h1 {
+  color: #5E6265;
+}
+
+h2 {
+  margin-top: 25px;
+  color: #fff;
+}
+
+h3 {
+  color: #8A9097;
+  margin-top: 40px;
+  margin-right: 60px;
+  float: left;
+}
+
+h4 {
+  margin-top: 35px;
+}
+
+h5 {
+  margin-top: 40px;
+}
+
+h1.heading-article  {
+  font-size: 16px;
+  line-height: 30px;
+  font-weight: 500;
+  margin-top: 40px;
+  color: #fff;
+}
+
+.styleguide-title {
+  padding-left: 57px;
+}
+
+.nav-link {
+  padding: 0;
+  border: none;
+  justify-content: flex-start;
+  font-size: 13px;
+}
+
+.nav-global {
+  margin-top: 77px;
+}
+
+.nav-callout {
+  color: #5BC9C5;
+  margin-top: 16px;
+}
+
+.paragraph {
+  margin-top: 32px;
+}
+
+.footer-paragraph{
+  margin-top: 8px;
+  padding-bottom: 40px;
+  color: #fff;
+}
+
+/* button */
+
+.btn-styleguide {
+  display: flex;
+  padding-bottom: 55px;
+}
+
+.btn-group {
+  width: 200px;
+}
+
+.btn-primary-hover {
+  background-color: #4CAFAC;
+  margin-top: 10px;
+}
+
+.btn-secondary-hover {
+  background-color: #5BC9C5;
+  border: none;
+  margin-top: 25px;
+  color: #fff;
+}
+
+/* color */
+
+.color-styleguide {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.color-item {
+  width: 200px;
+  margin-right: 60px;
+  margin-bottom: 60px;
+}
+
+.color-bg {
+  width: 100%;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.color-text {
+  text-align: center;
+  margin-top: 22px;
+  font-size: 15px;
+  line-height: 27px;
+  color: #55595D;
+}
+
+.color-white {
+  background-color: #fff;
+}
+
+.color-state {
+  background-color: #4D5256;
+}
+
+.color-light-state {
+  background-color: #5E6265;
+}
+
+.color-dark-grey {
+  background-color: #8A9097;
+}
+
+.color-teal {
+  background-color: #5BC9C5;
+}
+
+.color-teal-hover {
+  background-color: #4CAFAC;
+}
+
+.color-light-grey {
+  background-color: #F4F6F9;
+}
+
+.color-grey {
+  background-color: #CDD2D7;
+}
